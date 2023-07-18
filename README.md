@@ -13,9 +13,11 @@ This Python script allows you to download workshop content using the Steam Web A
   ```shell
   python download.py
 
-Note
-The script has been tested with CSGO workshops. It may not work with other workshops like Wallpaper Engine.
+**Note:**
+- The script has been tested with CSGO workshops. It may not work with other workshops like Wallpaper Engine.
+- For assistance with downloading Wallpaper Engine workshops or if you have any suggestions, feel free to reach out via direct message.
 
-For assistance with downloading Wallpaper Engine workshops or if you have any suggestions, feel free to reach out via direct message.
+**Note:** Currently, downloading Wallpaper Engine workshops is not supported. If you have any insights or suggestions on how to implement this functionality, please reach out via direct message.
 
 Please make sure to replace the placeholders (API key and workshop ID) with the actual values in your config.json file.
+
